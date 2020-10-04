@@ -27,8 +27,7 @@
     <!-- Theme CSS -->
     <link id="theme-style" rel="stylesheet" href="assets/css/styles.css">
   </head>
-  <body>
-    <!-- ******HEADER****** -->
+  <body> <!-- ******HEADER****** -->
     <header class="header">
       <div class="container clearfix"> <img class="profile-image img-fluid float-left rounded-circle"
 
@@ -50,9 +49,9 @@
     <!--//header-->
     <div class="container sections-wrapper">
       <div class="row">
-      <div class="primary col-md-8 col-sm-12 col-xs-12">
-                <section class="about section">
-                    <div class="section-inner">
+        <div class="primary col-lg-8 col-12">
+          <section class="about section">
+            <div class="section-inner">
               <h2 class="heading">About Me</h2>
               <div class="content">
                 <p>I am a communicator, a professor, a lover of photography,
@@ -64,7 +63,7 @@
             <!--//section-inner--> </section>
           <!--//section-->
           <section class="experience section">
-            <div class="section-inner shadow-sm rounded">
+                    <div class="section-inner shadow-sm rounded">
               <h2 class="heading">Work Experience</h2>
               <div class="content">
                 <div class="item">
@@ -138,10 +137,11 @@
                 </div>
                 <!--//item--></div>
               <!--//content--> </div>
-          </div><!--//section-inner-->
+         <!--//section-inner-->                 
                 </section><!--//section-->
-            </div><!--//primary-->  
-<div class="secondary col-md-4 col-sm-12 col-xs-12">
+      <!--//primary-->
+        </div>
+      <div class="secondary col-lg-4 col-12">
         <aside class="info aside section">
           <div class="section-inner">
             <h2 class="heading sr-only">Basic Information</h2>
@@ -323,14 +323,13 @@
                 <li>&nbsp; SenaStart (Toronto)</li>
                 <li>&nbsp; Hive (Seattle)</li>
               </ul>
-             </div><!--//content-->
-                    </div><!--//section-inner-->
-                </aside><!--//section-->
-
-
-            </div><!--//secondary-->
-        </div><!--//row-->
-    </div><!--//masonry-->
+            </div>
+            <!--//content--> </div>
+          <!--//section-inner--> </aside>
+        <!--//section--> </div>
+      <!--//secondary--> </div>
+    <!--//row-->
+    <!--//masonry-->
     <!-- ******FOOTER****** -->
     <footer class="footer">
       <div class="container text-center">
