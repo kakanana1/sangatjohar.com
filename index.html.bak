@@ -9,11 +9,9 @@
     <meta name="description" content="Bootstrap 4 Portfolio/Resume Theme for Developers">
     <meta name="author" content="Xiaoying Riley at 3rd Wave Media">
     <link rel="shortcut icon" href="favicon.ico">
-    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic"
-
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic"
       rel="stylesheet" type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet"
-
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet"
       type="text/css">
     <!-- FontAwesome JS -->
     <script defer="defer" src="assets/fontawesome/js/all.js"></script>
@@ -27,23 +25,21 @@
     <!-- Theme CSS -->
     <link id="theme-style" rel="stylesheet" href="assets/css/styles.css">
   </head>
-  <body> <!-- ******HEADER****** -->
+  <body>
+    <!-- ******HEADER****** -->
     <header class="header">
-      <div class="container clearfix"> <img class="profile-image img-fluid float-left rounded-circle"
-
+      <div class="container clearfix"> <img class="profile-image img-fluid float-left rounded-circle"
           src="assets/images/profile.png" alt="profile image">
         <div class="profile-content float-left">
-          <h1 class="name">Ravinder Kalra</h1>
-          <h2 class="desc">Professor</h2>
+          <h1 class="name">Sangat Johar</h1>
+          <h2 class="desc">Process Engineer &amp; Business Consultant</h2>
           <ul class="social list-inline">
-            <li class="list-inline-item"><a href="https://www.linkedin.com/in/ravinderkalra/"><i
-
+            <li class="list-inline-item"><a href="https://www.linkedin.com/in/sangat-johar-8b435451/"><i
                   class="fab fa-linkedin-in"></i></a><br>
             </li>
           </ul>
         </div>
-        <!--//profile--> <a class="btn btn-cta-primary float-right" href="mailto:ravinderkalra@gmail.com"
-
+        <!--//profile--> <a class="btn btn-cta-primary float-right" href="mailto:sanjohar@rogers.com"
           target="_blank"> Contact Me</a> </div>
       <!--//container--> </header>
     <!--//header-->
@@ -54,302 +50,270 @@
             <div class="section-inner">
               <h2 class="heading">About Me</h2>
               <div class="content">
-                <p>I am a communicator, a professor, a lover of photography,
-                  film and the balanced good life. It's good to see you on this
-                  site.&nbsp; Please connect with me via LinkedIn, Email, or
-                  Skype/Zoom chat if you wish to discuss anything. </p>
+                <p>I have over 43 years experience in project management, design
+                  engineering, process designs and mechanical/piping detailed
+                  engineering of a variety of process plants, including chemical
+                  and petrochemical, oil and gas processing, biofuels,
+                  pharmaceutical and food processing, pulp and paper, mining and
+                  mineral processing and environmental control projects. I have
+                  extensive experience in front end engineering design, and
+                  feasibility, process and HAZOP studies.. I have also been
+                  responsible for the performance of projects managed and have
+                  been responsible for preparing sectoral strategic plans,
+                  business development, international procurement and contract
+                  negotiations. <br>
+                  <br>
+                  Welcome to my website. I am happy to have you here.&nbsp;
+                  Please connect with me via LinkedIn, e-mail, or Zoom video if
+                  you wish to discuss anything or require any consulting. </p>
               </div>
               <!--//content--> </div>
             <!--//section-inner--> </section>
           <!--//section-->
           <section class="experience section">
-                    <div class="section-inner shadow-sm rounded">
+            <div class="section-inner shadow-sm rounded">
               <h2 class="heading">Work Experience</h2>
               <div class="content">
                 <div class="item">
-                  <h3 class="title">Professor CRM Customer Service and
-                    Organizational Behaviour - <span class="place">Seneca
-                      College, Newnham Campus, Markham, Ontario&nbsp;</span> <span
-
-                      class="year">(Jan 2018 - Present)&nbsp; Newnham Campus -
-                      Markham, On<br>
+                  <h3 class="title">Business Stream Leader - Process Industries
+                    - <span class="place">AMEC Foster Wheeler, Oakville,
+                      Ontario&nbsp;</span> <span class="year">(Jan 2001 -
+                      Present)&nbsp; <br>
                     </span></h3>
-                  <p>Taught students in a variety of subjects related to
-                    customer service and organizational behaviour</p>
+                  <p>Business development, Front end engineering design and
+                    studies for process industries. Subject Matter Expert-
+                    process engineering designs, scale-ups, biofuels</p>
                 </div>
                 <!--//item-->
                 <div class="item">
-                  <h3 class="title">Global Workforce Leader - <span class="place">Just
-                      Energy</span> <span class="year">(2011 - 2016)</span></h3>
-                  <p>Accountable for leading a global team of 8 Senior Workforce
-                    Analysts, supporting 5 Regions and 16+ States and Provinces
-                    across US, Canada and UK. Full accountability for Strategic
-                    and Tactical direction of Workforce/Planning/Budgeting
-                    inputs, supporting 600+ seats, $20 million+ Inbound/Outbound
-                    Call Centers located at Multiple Sites, handling 50+ core
-                    skills and 200+ overall skills. Currently transitioning from
-                    Aspect to Impact 360 WFO system in addition to providing
-                    critical input for universal vendor outsourcing.</p>
+                  <h3 class="title">Process and Mechanical Engineer Manager - <span
+                      class="place">AMEC, Oakville, Ontario</span> <span class="year">(Oct
+                      1988 - Dec 2000)</span></h3>
+                  <p>Discipline Manager. Project and Engineering Manager for
+                    many projects. Front End studies lead, Process Specialist at
+                    Cambrian Engineering and Monenco Agra (now AMEC).</p>
                 </div>
                 <!--//item-->
                 <div class="item">
-                  <h3 class="title">Senior Manager/Director Operations - <span
-
-                      class="place">Rogers Communications</span> <span class="year">(2004
-                      - 2010)</span></h3>
-                  <p>- Workforce Management<br>
-                    - Contact Centre Management &amp; Technology<br>
-                    - High Performance Leadership<br>
-                    - Business Process Improvement<br>
-                    - Project Management<br>
-                    - Planning and Budgeting<br>
-                    - Partner Management<br>
-                    - Financial Management<br>
-                    - COPC/Knowledge Management<br>
-                    - Change Management</p>
+                  <h3 class="title">General Manager Technical - <span class="place">Maire
+                      Technimont, New Delhi, India</span> <span class="year">(May
+                      1974 - Apr 1988)</span></h3>
+                  <p>Operations Manager for Regional Engineering office of ICB
+                    Limited (now Maire Tecnimont). Also technical lead, project
+                    manager, front end studies lead, international procurement,
+                    contracts negotiation and company commitment, EPC projects
+                    in variety of process industries, and short term World Bank
+                    consultant chemical engineer.</p>
                 </div>
                 <!--//item-->
-                <div class="item">
-                  <h3 class="title">Solutions Manager - <span class="place">Bell</span>
-                    <span class="year">(March 2004 - November 2004)</span></h3>
-                  <p>Responsible for introducing operational efficiencies/opex
-                    savings through partnership with various stakeholders.</p>
-                </div>
-                <!--//item-->
-                <div class="item">
-                  <h3 class="title">Operations Manager - <span class="place">ClientLogic
-                      Corpn/Sitel (Formerly North Direct Response)</span> <span
-
-                      class="year">(1999 - February 2004)</span></h3>
-                  <p>Led multiple outsourced client campaigns for Sales, Tech
-                    Support and Customer Service. Closely partnered with
-                    Handspring/Palm, Telus, Synnex, T-Mobile, Zales, Royal Bank,
-                    CIBC brands.</p>
-                </div>
-                <!--//item-->
-                <div class="item">
-                  <h3 class="title">Direct Marketing Associate - <span class="place">ClientLogic
-                      Corpn/Sitel (Formerly North Direct Response)</span> <span
-
-                      class="year">(1998 - 1999)</span></h3>
-                  <p>Top rated sales and customer service rep. Won the
-                    prestigious NDR jacket award for top productivity.</p>
-                </div>
                 <!--//item--></div>
               <!--//content--> </div>
-         <!--//section-inner-->                 
-                </section><!--//section-->
-      <!--//primary-->
-        </div>
-      <div class="secondary col-lg-4 col-12">
-        <aside class="info aside section">
-          <div class="section-inner">
-            <h2 class="heading sr-only">Basic Information</h2>
-            <div class="content">
-              <ul class="list-unstyled">
-                <li><i class="fa fa-map-marker"></i><span class="sr-only">Location:</span>Brampton,
-                  Ontario, Canada</li>
-                <li><span class="sr-only">Email:</span><a href="mailto:ravinderkalra@gmail.com?Subject=Hello%20there">ravinderkalra@gmail.com</a></li>
-                <li><i class="fa fa-link"></i><span class="sr-only">Website:</span><a
-
-                    href="#">profkalra.com</a></li>
-                <li><i class="fa fa-camera" aria-hidden="true"></i><span class="sr-only">Portfolio:</span><a
-
-                    href="https://photos.profkalra.com/">photos.profkalra.com</a></li>
-              </ul>
-            </div>
-            <!--//content--> </div>
-          <!--//section-inner--> </aside>
-        <!--//aside-->
-        <aside class="skills aside section">
-          <div class="section-inner shadow-sm rounded">
-            <h2 class="heading">Skills</h2>
-            <div class="content">
-              <div class="skillset">
+            <!--//section-inner--> </section>
+          <!--//section-->
+          <!--//primary--> </div>
+        <div class="secondary col-lg-4 col-12">
+          <aside class="info aside section">
+            <div class="section-inner">
+              <h2 class="heading sr-only">Basic Information</h2>
+              <div class="content">
+                <ul class="list-unstyled">
+                  <li><i class="fa fa-map-marker"></i><span class="sr-only">Location:</span>Brampton,
+                    Ontario, Canada</li>
+                  <li><span class="sr-only">Email:</span><a href="mailto:sanjohar@rogers.com?Subject=Hello%20there%20from%20SangatJohar.com">sanjohar@rogers.com</a></li>
+                  <li><span class="sr-only">Website:</span><a href="http://www.sangatjohar.com">sangatjohar.com</a></li>
+                </ul>
+              </div>
+              <!--//content--> </div>
+            <!--//section-inner--> </aside>
+          <!--//aside-->
+          <aside class="skills aside section">
+            <div class="section-inner shadow-sm rounded">
+              <h2 class="heading">Skills</h2>
+              <div class="content">
+                <div class="skillset">
+                  <div class="item">
+                    <h3 class="level-title">Engineering, Procurement &amp;
+                      Construction<span class="level-label" data-toggle="tooltip"
+                        data-placement="left" data-animation="true" title="You can use the tooltip to explain more about your skill level...">Expert</span></h3>
+                    <div class="level-bar">
+                      <div class="level-bar-inner" data-level="96%"> </div>
+                    </div>
+                    <!--//level-bar--> </div>
+                  <!--//item-->
+                  <div class="item">
+                    <h3 class="level-title">Energy, Petrochemicals, HAZOP<span class="level-label"
+                        data-toggle="tooltip" data-placement="left" data-animation="true"
+                        title="You can use the tooltip to explain more about your skill level...">Expert</span></h3>
+                    <div class="level-bar">
+                      <div class="level-bar-inner" data-level="96%"> </div>
+                    </div>
+                    <!--//level-bar--> </div>
+                  <!--//item-->
+                  <div class="item">
+                    <h3 class="level-title">Project Management<span class="level-label"
+                        data-toggle="tooltip" data-placement="left" data-animation="true"
+                        title="You can use the tooltip to explain more about your skill level...">Expert</span></h3>
+                    <div class="level-bar">
+                      <div class="level-bar-inner" data-level="96%"> </div>
+                    </div>
+                    <!--//level-bar--> </div>
+                  <!--//item-->
+                  <div class="item">
+                    <h3 class="level-title">Contract Management/Negotiation<span
+                        class="level-label" data-toggle="tooltip" data-placement="left"
+                        data-animation="true" title="You can use the tooltip to explain more about your skill level...">Expert</span></h3>
+                    <div class="level-bar">
+                      <div class="level-bar-inner" data-level="96%"> </div>
+                    </div>
+                    <!--//level-bar--> </div>
+                  <!--//item-->
+                  <div class="item">
+                    <h3 class="level-title">Process &amp; Strategic Planning<span
+                        class="level-label" data-toggle="tooltip" data-placement="left"
+                        data-animation="true" title="You can use the tooltip to explain more about your skill level...">Pro</span></h3>
+                    <div class="level-bar">
+                      <div class="level-bar-inner" data-level="85%"> </div>
+                    </div>
+                    <!--//level-bar--> </div>
+                  <!--//item--> </div>
+              </div>
+              <!--//content--> </div>
+            <!--//section-inner--> </aside>
+          <!--//section-->
+          <aside class="testimonials aside section">
+            <div class="section-inner shadow-sm rounded">
+              <h2 class="heading">Testimonials</h2>
+              <div class="content">
                 <div class="item">
-                  <h3 class="level-title">Corporate Communication<span class="level-label"
-
-                      data-toggle="tooltip" data-placement="left" data-animation="true"
-
-                      title="You can use the tooltip to explain more about your skill level...">Expert</span></h3>
-                  <div class="level-bar">
-                    <div class="level-bar-inner" data-level="96%"> </div>
-                  </div>
-                  <!--//level-bar--> </div>
+                  <blockquote class="quote">
+                    <p>Sangat is a hard working, loyal and trustworthy process
+                      management engineer, a good friend, and he is passionate
+                      about what he does. When he is on the team, you can count
+                      on him to deliver your projects.</p>
+                  </blockquote>
+                  <p class="source"><span class="name">Calvin Chu</span><br>
+                  </p>
+                </div>
                 <!--//item-->
+                <p><a class="more-link" href="https://www.linkedin.com/in/sangat-johar-8b435451/"><i
+                      class="fas fa-external-link-alt"></i>More on Linkedin</a></p>
+              </div>
+              <!--//content--> </div>
+            <!--//section-inner--> </aside>
+          <!--//section-->
+          <aside class="education aside section">
+            <div class="section-inner shadow-sm rounded">
+              <h2 class="heading">Education</h2>
+              <div class="content">
                 <div class="item">
-                  <h3 class="level-title">Organizational Behaviour<span class="level-label"
-
-                      data-toggle="tooltip" data-placement="left" data-animation="true"
-
-                      title="You can use the tooltip to explain more about your skill level...">Expert</span></h3>
-                  <div class="level-bar">
-                    <div class="level-bar-inner" data-level="96%"> </div>
-                  </div>
-                  <!--//level-bar--> </div>
+                  <h3 class="title">&nbsp; BEng, Chemical Engineering</h3>
+                  <h4 class="university">Indian Institute of Technology (IIT)
+                    Kanpur <span class="year">(1964-1969)</span></h4>
+                </div>
+                <div class="item">
+                  <h3 class="title">&nbsp; P.Eng - Registered Engineer</h3>
+                  <h4 class="university">Professional Engineers of Ontario (PEO)
+                    <span class="year">(1990-Present)</span></h4>
+                </div>
                 <!--//item-->
-                <div class="item">
-                  <h3 class="level-title">Marketing<span class="level-label" data-toggle="tooltip"
-
-                      data-placement="left" data-animation="true" title="You can use the tooltip to explain more about your skill level...">Expert</span></h3>
-                  <div class="level-bar">
-                    <div class="level-bar-inner" data-level="96%"> </div>
-                  </div>
-                  <!--//level-bar--> </div>
-                <!--//item-->
-                <div class="item">
-                  <h3 class="level-title">Photography and Film<span class="level-label"
-
-                      data-toggle="tooltip" data-placement="left" data-animation="true"
-
-                      title="You can use the tooltip to explain more about your skill level...">Pro</span></h3>
-                  <div class="level-bar">
-                    <div class="level-bar-inner" data-level="85%"> </div>
-                  </div>
-                  <!--//level-bar--> </div>
                 <!--//item--> </div>
-            </div>
-            <!--//content--> </div>
-          <!--//section-inner--> </aside>
-        <!--//section-->
-        <aside class="testimonials aside section">
-          <div class="section-inner shadow-sm rounded">
-            <h2 class="heading">Testimonials</h2>
-            <div class="content">
-              <div class="item">
-                <blockquote class="quote">
-                  <p>Ravinder is an excellent professor and he is passionate
-                    about what he does. You can totally count on him to deliver
-                    your projects!</p>
-                </blockquote>
-                <p class="source"><span class="name">Tim Adams</span><br>
-                </p>
+              <!--//content--> </div>
+            <!--//section-inner--> </aside>
+          <!--//section-->
+          <aside class="languages aside section">
+            <div class="section-inner shadow-sm rounded">
+              <h2 class="heading">Languages</h2>
+              <div class="content">
+                <ul class="list-unstyled">
+                  <li class="item"> <span class="title"><strong>English:</strong></span>
+                    <span class="level">Native Speaker <br class="visible-xs">
+                      <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i
+                        class="fas fa-star"></i> <i class="fas fa-star"></i> <i
+                        class="fas fa-star"></i> </span> </li>
+                  <!--//item-->
+                  <li class="item"> <span class="title"><strong>Hindi:</strong></span>
+                    <span class="level">Native Speaker <br class="visible-sm visible-xs">
+                      <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i
+                        class="fas fa-star"></i> <i class="fas fa-star"></i><i
+                        class="fas fa-star"></i></span> </li>
+                  <li class="item"> <span class="title"><strong>Punjabi:</strong></span>
+                    <span class="level">Native Speaker <br class="visible-sm visible-xs">
+                      <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i
+                        class="fas fa-star"></i><i class="fas fa-star"></i> <i
+                        class="fas fa-star"></i></span> </li>
+                  <!--//item-->
+                  <!--//item-->
+                </ul>
               </div>
-              <!--//item-->
-              <p><a class="more-link" href="#"><i class="fas fa-external-link-alt"></i>More
-                  on Linkedin</a></p>
-            </div>
-            <!--//content--> </div>
-          <!--//section-inner--> </aside>
-        <!--//section-->
-        <aside class="education aside section">
-          <div class="section-inner shadow-sm rounded">
-            <h2 class="heading">Education</h2>
-            <div class="content">
-              <div class="item">
-                <h3 class="title"> MBA Marketing, Finance</h3>
-                <h4 class="university">Punjab Agricultural University <span class="year">(1989-1992)</span></h4>
+              <!--//content--> </div>
+            <!--//section-inner--> </aside>
+          <!--//section-->
+          <aside class="blog aside section">
+            <div class="section-inner shadow-sm rounded">
+              <h2 class="heading">Latest Blog Posts</h2>
+              <p>You can use the <a href="https://github.com/sdepold/jquery-rss"
+                  target="_blank">jQuery RSS plugin</a> to pull in your blog
+                post feeds.</p>
+              <!--//content--> </div>
+            <!--//section-inner--> </aside>
+          <!--//section-->
+          <aside class="list music aside section">
+            <div class="section-inner shadow-sm rounded">
+              <h2 class="heading">Favourite Music/Hobbies/Interests</h2>
+              <div class="content">
+                <ul class="list-unstyled">
+                  <li> <a href="#">-Old is Gold Bollywood</a></li>
+                  <li>&nbsp;<span style="color: #778492;">-Contract Bridge<br>
+                    </span></li>
+                  <li>&nbsp;<span style="color: #778492;">-Cricket<br>
+                    </span></li>
+                  <li><span style=" color: #778492;">-Travel</span></li>
+                  <li><span style="  color: #778492;">-Old Indian Movies<br>
+                    </span></li>
+                  <li><span style="   color: #778492;">-KBC &amp; Indian Serials
+                      &amp; Reality Shows<br>
+                    </span></li>
+                </ul>
               </div>
-              <!--//item-->
-              <div class="item">
-                <h3 class="title"> BEng Mechanical Engineering</h3>
-                <h4 class="university">The Institution of Engineers, India <span
-
-                    class="year">(1986-1988)</span></h4>
+              <!--//content--> </div>
+            <!--//section-inner--> </aside>
+          <!--//section-->
+          <aside class="list conferences aside section">
+            <div class="section-inner shadow-sm rounded">
+              <h2 class="heading">Conferences Attended</h2>
+              <div class="content">
+                <ul class="list-unstyled">
+                  <li>&nbsp; Fuel Ethanol Workshop (Toronto)</li>
+                  <li>&nbsp; Biofuels International Canada Expo (Montreal, 2009)</li>
+                  <li>&nbsp; XXI World Energy Congress (Montreal, 2010)</li>
+                  <li>&nbsp; Educational Program Innovation Center (EPIC)</li>
+                </ul>
               </div>
-              <!--//item--> </div>
-            <!--//content--> </div>
-          <!--//section-inner--> </aside>
-        <!--//section-->
-        <aside class="languages aside section">
-          <div class="section-inner shadow-sm rounded">
-            <h2 class="heading">Languages</h2>
-            <div class="content">
-              <ul class="list-unstyled">
-                <li class="item"> <span class="title"><strong>English:</strong></span>
-                  <span class="level">Native Speaker <br class="visible-xs">
-                    <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i
-
-                      class="fas fa-star"></i> <i class="fas fa-star"></i> <i
-
-                      class="fas fa-star"></i> </span> </li>
-                <!--//item-->
-                <li class="item"> <span class="title"><strong>Hindi:</strong></span>
-                  <span class="level">Native Speaker <br class="visible-sm visible-xs">
-                    <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i
-
-                      class="fas fa-star"></i> <i class="fas fa-star"></i><i class="fas fa-star"></i></span>
-                </li>
-                <li class="item"> <span class="title"><strong>Punjabi:</strong></span>
-                  <span class="level">Native Speaker <br class="visible-sm visible-xs">
-                    <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i
-
-                      class="fas fa-star"></i><i class="fas fa-star"></i> <i class="fas fa-star"></i></span>
-                </li>
-                <!--//item-->
-                <!--//item-->
-              </ul>
-            </div>
-            <!--//content--> </div>
-          <!--//section-inner--> </aside>
-        <!--//section-->
-        <aside class="blog aside section">
-          <div class="section-inner shadow-sm rounded">
-            <h2 class="heading">Latest Blog Posts</h2>
-            <p>You can use Sascha Depold's <a href="https://github.com/sdepold/jquery-rss"
-
-                target="_blank">jQuery RSS plugin</a> to pull in your blog post
-              feeds.</p>
-            <!--//content--> </div>
-          <!--//section-inner--> </aside>
-        <!--//section-->
-        <aside class="list music aside section">
-          <div class="section-inner shadow-sm rounded">
-            <h2 class="heading">Favourite Music/Hobbies/Interests</h2>
-            <div class="content">
-              <ul class="list-unstyled">
-                <li><i class="fas fa-headphones"></i> <a href="#">-Majnun
-                    Ghazals<br>
-                  </a></li>
-                <li> <a href="#">-Old is Gold Bollywood</a></li>
-                <li>&nbsp;<span style="color: #778492;">-Kajra Re<br>
-                  </span></li>
-                <li>&nbsp;<span style="color: #778492;">-Shabad Kirtan</span></li>
-                <li><span style=" color: #778492;">-Mangoes</span></li>
-                <li><span style="  color: #778492;">-Kulfi Faluda
-                    Crystallization Processes</span></li>
-                <li><span style="   color: #778492;">-Film and Photography<br>
-                  </span></li>
-              </ul>
-            </div>
-            <!--//content--> </div>
-          <!--//section-inner--> </aside>
-        <!--//section-->
-        <aside class="list conferences aside section">
-          <div class="section-inner shadow-sm rounded">
-            <h2 class="heading">Conferences Attended</h2>
-            <div class="content">
-              <ul class="list-unstyled">
-                <li>&nbsp; SenaStart (Toronto)</li>
-                <li>&nbsp; Hive (Seattle)</li>
-              </ul>
-            </div>
-            <!--//content--> </div>
-          <!--//section-inner--> </aside>
-        <!--//section--> </div>
-      <!--//secondary--> </div>
-    <!--//row-->
-    <!--//masonry-->
-    <!-- ******FOOTER****** -->
-    <footer class="footer">
-      <div class="container text-center">
-        <!--/* This template is free as long as you keep the attribution link below. Thank you for your support. :) If you'd like to use the template without the attribution, you can buy the commercial license via our website: themes.3rdwavemedia.com */-->
-        <small class="copyright">Designed with by <a href="https://themes.3rdwavemedia.com"
-
-            target="_blank">Xiaoying Riley</a> for developers</small> </div>
-      <!--//container--> </footer>
-    <!--//footer-->
-    <!-- Javascript -->
-    <script type="text/javascript" src="assets/plugins/jquery-3.4.1.min.js"></script>
-    <script type="text/javascript" src="assets/plugins/popper.min.js"></script>
-    <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="assets/plugins/jquery-rss/dist/jquery.rss.min.js"></script>
-    <!-- github calendar plugin -->
-    <script type="text/javascript" src="assets/plugins/github-calendar/dist/github-calendar.min.js"></script>
-    <!-- github activity plugin -->
-    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/0.7.2/mustache.min.js"></script>
-    <script type="text/javascript" src="assets/plugins/github-activity/github-activity-0.1.5.min.js"></script>
-    <!-- custom js -->
-    <script type="text/javascript" src="assets/js/main.js"></script>
+              <!--//content--> </div>
+            <!--//section-inner--> </aside>
+          <!--//section--> </div>
+        <!--//secondary--> </div>
+      <!--//row-->
+      <!--//masonry-->
+      <!-- ******FOOTER****** -->
+      <footer class="footer">
+        <div class="container text-center">
+          <!--/* This template is free as long as you keep the attribution link below. Thank you for your support. :) If you'd like to use the template without the attribution, you can buy the commercial license via our website: themes.3rdwavemedia.com */-->
+          <small class="copyright">Designed with by <a href="https://themes.3rdwavemedia.com"
+              target="_blank">Xiaoying Riley</a> for developers</small> </div>
+        <!--//container--> </footer>
+      <!--//footer-->
+      <!-- Javascript -->
+      <script type="text/javascript" src="assets/plugins/jquery-3.4.1.min.js"></script>
+      <script type="text/javascript" src="assets/plugins/popper.min.js"></script>
+      <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+      <script type="text/javascript" src="assets/plugins/jquery-rss/dist/jquery.rss.min.js"></script>
+      <!-- github calendar plugin -->
+      <script type="text/javascript" src="assets/plugins/github-calendar/dist/github-calendar.min.js"></script>
+      <!-- github activity plugin -->
+      <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/0.7.2/mustache.min.js"></script>
+      <script type="text/javascript" src="assets/plugins/github-activity/github-activity-0.1.5.min.js"></script>
+      <!-- custom js -->
+      <script type="text/javascript" src="assets/js/main.js"></script> </div>
   </body>
 </html>
